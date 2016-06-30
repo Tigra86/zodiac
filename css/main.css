@@ -1,0 +1,17 @@
+	body {
+		background-color: grey;
+	}
+
+	#dob {
+		text-align: center;
+		margin-top: 50px;
+		line-height: 3;
+		font-family: 'Indie Flower', cursive;
+	}
+
+	.sign {
+		text-align: center;
+		margin-top: 50px;
+		font-family: 'Indie Flower', cursive;
+		display: none;
+	}
